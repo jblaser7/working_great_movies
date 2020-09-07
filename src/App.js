@@ -55,7 +55,7 @@ class App extends Component {
 }
 
 /*componentDidMount(){
-    fetch('http://www.omdbapi.com/?apikey=[316cffe3]&t=Game of Thrones&Season=1&Episode=1') 
+    fetch('http://www.omdbapi.com/?apikey=[]&t=Game of Thrones&Season=1&Episode=1') 
         .then(response=>console.log(response))
 }
 */
@@ -106,7 +106,7 @@ async  fetchData(searchTerm) {
     const fetchData = async(searchTerm) => {
     const response = await axios.get('http://www.omdbapi.com', {
         params: {
-            apikey:'316cffe3',
+            apikey:'',
             s: searchTerm
         }
     });
@@ -118,7 +118,7 @@ async  fetchData(searchTerm) {
 
   const response = await axios.get('http://www.omdbapi.com/', {
     params: {
-    apikey: '316cffe3',
+    apikey: '',
     i: movie.imdbID
     }
   });
