@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/working_great_movies/static/css/main.9030adfe.chunk.css",
+    "main.js": "/working_great_movies/static/js/main.b03ca989.chunk.js",
+    "main.js.map": "/working_great_movies/static/js/main.b03ca989.chunk.js.map",
+    "runtime-main.js": "/working_great_movies/static/js/runtime-main.212e0acb.js",
+    "runtime-main.js.map": "/working_great_movies/static/js/runtime-main.212e0acb.js.map",
+    "static/js/2.356db000.chunk.js": "/working_great_movies/static/js/2.356db000.chunk.js",
+    "static/js/2.356db000.chunk.js.map": "/working_great_movies/static/js/2.356db000.chunk.js.map",
+    "index.html": "/working_great_movies/index.html",
+    "precache-manifest.4d05f95c1eadf0e726147ac5f91bafff.js": "/working_great_movies/precache-manifest.4d05f95c1eadf0e726147ac5f91bafff.js",
+    "service-worker.js": "/working_great_movies/service-worker.js",
+    "static/css/main.9030adfe.chunk.css.map": "/working_great_movies/static/css/main.9030adfe.chunk.css.map",
+    "static/js/2.356db000.chunk.js.LICENSE.txt": "/working_great_movies/static/js/2.356db000.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212e0acb.js",
+    "static/js/2.356db000.chunk.js",
+    "static/css/main.9030adfe.chunk.css",
+    "static/js/main.b03ca989.chunk.js"
+  ]
+}
