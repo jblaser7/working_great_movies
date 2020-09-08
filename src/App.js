@@ -87,7 +87,7 @@ export default App;
 const fetchData = async(searchTerm) => {
     const response = await axios.get('http://www.omdbapi.com', {
         params: {
-            apikey:'316cffe3',
+            apikey:'',
             s: searchTerm
         }
     });
